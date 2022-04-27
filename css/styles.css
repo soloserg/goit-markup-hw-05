@@ -449,6 +449,7 @@ padding: 27px 0;
 
 .team-soc-icon {
 fill: var(--primary-icon-color);
+transition: fill 250ms var(--timing-function)
 }
 
 .team-soc-link:hover .team-soc-icon {
